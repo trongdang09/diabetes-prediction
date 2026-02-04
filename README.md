@@ -146,7 +146,3 @@ Bạn có thể mở PR/issue để:
 - thêm mô hình khác (Logistic Regression, XGBoost/LightGBM…),
 - hoặc đóng gói thành API/CLI.
 
-## Giấy phép
-
-Chưa khai báo license. Nếu bạn muốn chia sẻ công khai, nên bổ sung `LICENSE` (ví dụ MIT).
-
